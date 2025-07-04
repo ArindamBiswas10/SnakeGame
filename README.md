@@ -32,7 +32,7 @@ A fun, retro-style Snake game built with HTML5 Canvas and JavaScript to help me 
 
 ```bash
 git clone https://github.com/Arindam10/SnakeGame.git
-cd <SnakeGame>
+cd SnakeGame
 
 2. Open the game
 Just open index.html in your browser — no build or server setup required!
