@@ -52,8 +52,6 @@ Improve visuals with pixel-style assets
 
 Convert to TypeScript + Vite
 
-Mobile touch controls
 
-Deploy on GitHub Pages
 
 
