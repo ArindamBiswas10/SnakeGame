@@ -25,6 +25,7 @@ A fun, retro-style Snake game built with HTML5 Canvas and JavaScript to help me 
 - Typescript
 - CSS  
 - React
+-Next.js
 
 ---
 
