@@ -16,6 +16,7 @@ A fun, retro-style Snake game built with HTML5 Canvas and JavaScript to help me 
 - 📈 Real-time score tracking
 - 💅 Minimal styling with CSS 
 -    Leaderboard incoming soon
+-    Artifacts and exciting playhthrough coming soon
 
 ---
 
