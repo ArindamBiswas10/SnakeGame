@@ -2,7 +2,6 @@
 
 A fun, retro-style Snake game built with HTML5 Canvas and JavaScript to help me learn and revise JavaScript & TypeScript fundamentals. A lot more to come. Interactive gameplay soon. Assets incoming. New Features incoming soon.
 
-![snake-game-preview](./assets/screenshot.png)
 
 ---
 
