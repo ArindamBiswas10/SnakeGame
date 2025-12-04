@@ -10,7 +10,7 @@ Full system overhaul and change coming soon.
 ## 🎮 Features
 
 - 🧱 Grid-based snake movement
-- 🍎 Food generation with random placement
+- 🍎 Food generation with random placement and improved assets
 - 🐍 Snake grows after eating food
 - ☠️ Wall and self-collision detection
 - ⏯️ Start and Restart functionality
