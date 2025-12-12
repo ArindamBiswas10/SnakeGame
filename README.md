@@ -16,7 +16,7 @@ Full system overhaul and change coming soon.
 - ⏯️ Start and Restart functionality
 - 📈 Real-time score tracking
 - 💅 Minimal styling with CSS and three.js
--    Leaderboard incoming soon
+-    Leaderboard and multilevels coming soon
 -    Artifacts and exciting playhthrough coming soon
 
 ---
